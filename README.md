@@ -12,7 +12,7 @@ So, whether you are looking to keep track of your own health and fitness or simp
 
 ## Layout Mobile
 
-![20230314_101232](https://user-images.githubusercontent.com/18384920/226672057-1e7296ce-991f-4bd2-948e-fe28eee2df42.jpg)
+![Screenshot_20230321-131938_BMI Calculator](https://user-images.githubusercontent.com/18384920/226673425-30b2d073-cbdf-4616-8047-1401692095a9.jpg)
 
 
 ## What was used:
